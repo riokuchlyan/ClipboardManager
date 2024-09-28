@@ -57,6 +57,6 @@ button.pack(padx=2, pady=1)
 window.update()
 
 window.after(2000, job)
-
+ 
 while True:
     window.update()
